@@ -1,1 +1,1 @@
-{"version":"1.1", "notes":"Huge update!\n・Added test1\n・Added test2\n・Added test3\n・Added test4\n・Added test5"}
+{"version":"1.1", "notes":"Huge update!\nAdded test1\nAdded test2\nAdded test3\nAdded test4\nAdded test5"}

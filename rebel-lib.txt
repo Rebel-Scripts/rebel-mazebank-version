@@ -1,1 +1,1 @@
-{"version":"1.1", "notes":"Super important stuff"}
+{"version":"1.0", "notes":""}

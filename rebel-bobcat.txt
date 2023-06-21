@@ -1,1 +1,1 @@
-{"version":"1.0", "notes":""}
+{"version":"1.01", "notes":"Fixed thermite not working on startup"}

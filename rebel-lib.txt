@@ -1,1 +1,1 @@
-{"version":"1.1", "notes":"Added skills.sql\nOnly required if you use rebel-skills, rebel-electrician or rebel-moneywash"}
+{"version":"1.01", "notes":"Added skills.sql\nOnly required if you use rebel-skills, rebel-electrician or rebel-moneywash"}

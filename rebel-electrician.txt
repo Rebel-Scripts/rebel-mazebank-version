@@ -1,1 +1,1 @@
-{"version":"1.0", "notes":""}
+{"version":"1.01", "notes":"Fixed incorrect work paychecks\nEdited Files:\nclient/main.lua"}

@@ -1,1 +1,1 @@
-{"version":"1.02", "notes":"Fixed icon issues for qb-menu\n\nFiles Changed:\nclient/menus.lua"}
+{"version":"1.02", "notes":"Fixed icon issues for qb-menu\n\nFiles Changed:\nclient/menus.lua & fxmanifest.lua"}

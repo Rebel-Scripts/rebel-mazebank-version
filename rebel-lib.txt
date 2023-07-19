@@ -1,1 +1,1 @@
-{"version":"1.02", "notes":"Fixed icon issues for qb-menu\n\nFiles Changed:\nclient/menus.lua & fxmanifest.lua"}
+{"version":"1.03", "notes":"Fixed required police not working for heists\n\nFiles Changed:\nclient/functions.lua & fxmanifest.lua"}

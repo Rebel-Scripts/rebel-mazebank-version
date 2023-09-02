@@ -1,1 +1,1 @@
-{"version":"1.01", "notes":"Fixed incorrect work paychecks\nEdited Files:\nclient/main.lua"}
+{"version":"1.02", "notes":"Added a function in edit.lua where you can execute custom code when a player returns their work truck"}

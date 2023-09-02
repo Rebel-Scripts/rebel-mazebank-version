@@ -1,1 +1,1 @@
-{"version":"1.03", "notes":"Fixed required police not working for heists\n\nFiles Changed:\nclient/functions.lua & fxmanifest.lua"}
+{"version":"1.06", "notes":"Added some heist items to the lib to make easier compatability with other heists"}

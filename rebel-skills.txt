@@ -1,1 +1,1 @@
-{"version":"1.0", "notes":""}
+{"version":"1.5", "notes":"Complete UI Redesign\nFixed issues with players getting max stats with slightes stat increase\nAdded more general improvement and optimization"}

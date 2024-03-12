@@ -1,1 +1,1 @@
-{"version":"1.5", "notes":"Complete UI Redesign\nYou can now add custom id cards.\nIdentity cards now added to esx and standalone"}
+{"version":"1.6", "notes":"Fixed a bug where it would charge you for an id-card even if you didn't have a license for it.\nAdded a config option to add more cityhall locations.\nAdded a config option to require certain licenses for certain jobs. Example: The hunter job requires a hunting license."}

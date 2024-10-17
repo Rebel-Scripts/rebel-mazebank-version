@@ -1,1 +1,1 @@
-{"version":"1.06", "notes":"Added some heist items to the lib to make easier compatability with other heists"}
+{"version":"1.07", "notes":"Added support for the most recent ox_target"}
